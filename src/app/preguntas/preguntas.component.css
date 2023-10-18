@@ -1,0 +1,14 @@
+.preguntas {
+    list-style-type: none;
+    padding: 0;
+}
+  
+.preguntas li {
+    margin-bottom: 20px;
+}
+  
+.preguntas strong {
+    display: block;
+    margin-bottom: 5px;
+}
+  

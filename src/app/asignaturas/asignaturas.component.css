@@ -1,0 +1,10 @@
+.asignatura {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+  
+.asignatura strong {
+    display: block;
+    margin-bottom: 5px;
+}

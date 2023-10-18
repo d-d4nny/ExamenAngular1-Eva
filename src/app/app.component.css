@@ -1,0 +1,22 @@
+.container {
+    text-align: center;
+    padding: 20px;
+}
+  
+.content {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+  
+.column {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 0 10px;
+}
+  
+.column h2 {
+    text-align: center;
+}
+  

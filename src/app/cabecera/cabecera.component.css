@@ -1,0 +1,10 @@
+.app-cabecera {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a.active {
+    font-weight: bold;
+}
